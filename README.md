@@ -1,2 +1,3 @@
 # Isometric-Strength-Meter
-My Graduation's Conclusion Work 
+This program was used for my undergraduate thesis in Electrical Engineering.
+Key-words: isometric; strength; clinical; measure; fatigue.
